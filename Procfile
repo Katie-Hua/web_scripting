@@ -1,0 +1,1 @@
+web: guicorn codedaddies_list.wsgi
